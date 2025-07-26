@@ -1,4 +1,3 @@
-# Write code below 💖
 #Sum of squares
 
 number = int(input("Enter a number : "))

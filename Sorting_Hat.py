@@ -1,4 +1,3 @@
-# Write code below 💖
 #Sorting Hat problem
 g = 0
 r = 0

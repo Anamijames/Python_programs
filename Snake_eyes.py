@@ -1,4 +1,3 @@
-# Write code below 💖
 #Snake eyes
 import random
 

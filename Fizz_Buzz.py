@@ -1,4 +1,3 @@
-# Write code below 💖
 #Fizz Buzz
 
 for i in range(1,101) :
