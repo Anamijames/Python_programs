@@ -1,4 +1,3 @@
-# Write code below 💖
 #Magic 8 ball program
 import random
 
